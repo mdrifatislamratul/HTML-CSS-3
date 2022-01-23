@@ -1,0 +1,31 @@
+.headear{
+	min-height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+
+}
+
+.content{
+	min-height: 200px;
+	background-color: yellow;
+	width: 60%;
+    float: left;
+
+
+}
+
+.blog{
+	min-height: 200px;
+	background-color: green;
+	width: 40%;
+	float: right;
+
+}
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
